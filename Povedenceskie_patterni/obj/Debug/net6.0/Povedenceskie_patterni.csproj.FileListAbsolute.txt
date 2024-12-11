@@ -1,0 +1,14 @@
+C:\Users\Honor\source\DijkstraAlgorithm\Povedenceskie_patterni\Povedenceskie_patterni\bin\Debug\net6.0\Povedenceskie_patterni.exe
+C:\Users\Honor\source\DijkstraAlgorithm\Povedenceskie_patterni\Povedenceskie_patterni\bin\Debug\net6.0\Povedenceskie_patterni.deps.json
+C:\Users\Honor\source\DijkstraAlgorithm\Povedenceskie_patterni\Povedenceskie_patterni\bin\Debug\net6.0\Povedenceskie_patterni.runtimeconfig.json
+C:\Users\Honor\source\DijkstraAlgorithm\Povedenceskie_patterni\Povedenceskie_patterni\bin\Debug\net6.0\Povedenceskie_patterni.dll
+C:\Users\Honor\source\DijkstraAlgorithm\Povedenceskie_patterni\Povedenceskie_patterni\bin\Debug\net6.0\Povedenceskie_patterni.pdb
+C:\Users\Honor\source\DijkstraAlgorithm\Povedenceskie_patterni\Povedenceskie_patterni\obj\Debug\net6.0\Povedenceskie_patterni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Honor\source\DijkstraAlgorithm\Povedenceskie_patterni\Povedenceskie_patterni\obj\Debug\net6.0\Povedenceskie_patterni.AssemblyInfoInputs.cache
+C:\Users\Honor\source\DijkstraAlgorithm\Povedenceskie_patterni\Povedenceskie_patterni\obj\Debug\net6.0\Povedenceskie_patterni.AssemblyInfo.cs
+C:\Users\Honor\source\DijkstraAlgorithm\Povedenceskie_patterni\Povedenceskie_patterni\obj\Debug\net6.0\Povedenceskie_patterni.csproj.CoreCompileInputs.cache
+C:\Users\Honor\source\DijkstraAlgorithm\Povedenceskie_patterni\Povedenceskie_patterni\obj\Debug\net6.0\Povedenceskie_patterni.dll
+C:\Users\Honor\source\DijkstraAlgorithm\Povedenceskie_patterni\Povedenceskie_patterni\obj\Debug\net6.0\refint\Povedenceskie_patterni.dll
+C:\Users\Honor\source\DijkstraAlgorithm\Povedenceskie_patterni\Povedenceskie_patterni\obj\Debug\net6.0\Povedenceskie_patterni.pdb
+C:\Users\Honor\source\DijkstraAlgorithm\Povedenceskie_patterni\Povedenceskie_patterni\obj\Debug\net6.0\Povedenceskie_patterni.genruntimeconfig.cache
+C:\Users\Honor\source\DijkstraAlgorithm\Povedenceskie_patterni\Povedenceskie_patterni\obj\Debug\net6.0\ref\Povedenceskie_patterni.dll
